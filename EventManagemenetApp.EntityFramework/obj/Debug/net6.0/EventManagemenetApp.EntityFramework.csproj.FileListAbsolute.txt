@@ -1,0 +1,12 @@
+C:\Users\abegail feliciano\Source\Repos\dreamydaycreations\EventManagemenetApp.EntityFramework\bin\Debug\net6.0\EventManagemenetApp.EntityFramework.deps.json
+C:\Users\abegail feliciano\Source\Repos\dreamydaycreations\EventManagemenetApp.EntityFramework\bin\Debug\net6.0\EventManagemenetApp.EntityFramework.dll
+C:\Users\abegail feliciano\Source\Repos\dreamydaycreations\EventManagemenetApp.EntityFramework\bin\Debug\net6.0\EventManagemenetApp.EntityFramework.pdb
+C:\Users\abegail feliciano\Source\Repos\dreamydaycreations\EventManagemenetApp.EntityFramework\obj\Debug\net6.0\EventManagemenetApp.EntityFramework.csproj.AssemblyReference.cache
+C:\Users\abegail feliciano\Source\Repos\dreamydaycreations\EventManagemenetApp.EntityFramework\obj\Debug\net6.0\EventManagemenetApp.EntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abegail feliciano\Source\Repos\dreamydaycreations\EventManagemenetApp.EntityFramework\obj\Debug\net6.0\EventManagemenetApp.EntityFramework.AssemblyInfoInputs.cache
+C:\Users\abegail feliciano\Source\Repos\dreamydaycreations\EventManagemenetApp.EntityFramework\obj\Debug\net6.0\EventManagemenetApp.EntityFramework.AssemblyInfo.cs
+C:\Users\abegail feliciano\Source\Repos\dreamydaycreations\EventManagemenetApp.EntityFramework\obj\Debug\net6.0\EventManagemenetApp.EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\abegail feliciano\Source\Repos\dreamydaycreations\EventManagemenetApp.EntityFramework\obj\Debug\net6.0\EventManagemenetApp.EntityFramework.dll
+C:\Users\abegail feliciano\Source\Repos\dreamydaycreations\EventManagemenetApp.EntityFramework\obj\Debug\net6.0\refint\EventManagemenetApp.EntityFramework.dll
+C:\Users\abegail feliciano\Source\Repos\dreamydaycreations\EventManagemenetApp.EntityFramework\obj\Debug\net6.0\EventManagemenetApp.EntityFramework.pdb
+C:\Users\abegail feliciano\Source\Repos\dreamydaycreations\EventManagemenetApp.EntityFramework\obj\Debug\net6.0\ref\EventManagemenetApp.EntityFramework.dll
